@@ -74,7 +74,7 @@ The most convenient way to package your extension is to use [`web-ext build`](/d
 
 1. Open the directory containing your extension's files.
 
-2. Select files and directories needed to implement your extension, exclude those files that aren't needed to run the extension, such as `.git`, graphic sources, and similar files.
+2. Select files and directories needed to implement your extension; exclude those files that aren't needed to run the extension, such as `.git`, graphic sources, and similar files.
 
 3. Open the shortcut menu and click **Send to** then **Compressed (zipped) folder**.
 
@@ -96,7 +96,7 @@ The most convenient way to package your extension is to use [`web-ext build`](/d
 
 1. Open the directory containing your extension's files.
 
-2. Select files and directories needed to implement your extension, excludes those files that aren't needed to run the extension, such as `.git`, graphic sources, and similar files.
+2. Select files and directories needed to implement your extension, exclude those files that aren't needed to run the extension, such as `.git`, graphic sources, and similar files.
 
 3. Open the shortcut menu and click **Compress** **_n_** **Items**.
 
